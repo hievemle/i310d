@@ -10,9 +10,9 @@ This project seeks to analyze School Advantage Programs funding by the New York 
 
 ## Attributes
 
-Contract End Date (string) - the date at which the school stopped receiving funding\n
-Contract Amount (integer) - the dollar amount of funding the school received\n
-Primary City/Borough (string) - inner boroughs/cities within New York City, the same column in 2 different data sets
+Contract End Date (string) - the date at which the school stopped receiving funding,
+Contract Amount (integer) - the dollar amount of funding the school received,
+Primary City/Borough (string) - inner boroughs/cities within New York City, the same column in 2 different data sets,
 Mean Scale Score (float) - the average score of each borough's ELA scores
 
 ## Data.World
